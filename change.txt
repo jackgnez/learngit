@@ -7,3 +7,4 @@ new
 no swear!
 >>>>>>> featurel
 Creating a new branch is quick and simple.
+add merge
