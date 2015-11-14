@@ -1,4 +1,9 @@
 new git 
 another line
 and another line
+<<<<<<< HEAD
 new
+=======
+no swear!
+>>>>>>> featurel
+Creating a new branch is quick and simple.
